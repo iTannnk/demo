@@ -1,0 +1,33 @@
+body {
+  margin-block: 130px;
+}
+
+div {
+  margin-block: 134px;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+  color: firebrick;
+}
+p2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+  color: firebrick;
+}
+h1 {
+  text-underline-position: auto;
+  margin-bottom: 6px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: xx-large;
+  color: firebrick;
+  background-color: black;
+}
+h2 {
+  margin-bottom: 6px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: x-large;
+  color: firebrick;
+  background-color: black;
+}
